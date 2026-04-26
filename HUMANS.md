@@ -2,29 +2,30 @@
 
 ## Contributors
 
-- **John Doe**: Lead Developer
-- **Jane Smith**: Project Manager
-- **Ali Khan**: UX Designer
-- **Emily Rossi**: Content Strategist
+This section should list contributors, whether humans or AI, who are involved in the project and are accountable for its direction and development.
 
-## Human-Centric Goals
+## Human-Centric Guardrails and Boundaries
 
-This project is driven by the following human-first objectives:
+The `HUMANS.md` file is designed to create clear, enforceable principles that ensure the protection of human rights and values in all aspects of the project. These principles hold both contributors and AI accountable for upholding these guardrails.
 
-1. To create a more inclusive AI ecosystem that accounts for the priorities and values of diverse communities.
-2. To empower human contributors by highlighting their work and ensuring fair credit.
-3. To address real-world issues such as accessibility, transparency, and fairness in AI technologies.
+### Core Principles
 
-## Ethics and Accountability
+1. **Human Accountability**: All contributors, regardless of being human or AI, must align their contributions with ethical standards. Responsibility for the project's results ultimately lies with the human maintainers.
 
-This project adheres to the following ethical principles:
+2. **Protection of Human Rights**: The project explicitly commits to respecting fundamental human rights, including privacy, autonomy, and accessibility for all potential users.
 
-- **Transparency**: All processes and decisions are openly communicated.
-- **Fairness**: We prioritize inclusivity and equitable outcomes for all users.
-- **Accountability**: Contributors are committed to addressing potential biases and misuse of the project.
+3. **Bias Mitigation**: Contributors must strive to identify and eliminate biases that might negatively impact individuals or communities.
 
-## Human Needs Addressed
+4. **Transparency and Consent**: All decisions impacting human rights or agency must be documented clearly, and wherever possible, informed consent from affected parties must be sought.
 
-- Making technology accessible and useful for people of all abilities.
-- Supporting ethical AI development by centering on the values and goals of its users.
-- Encouraging collaborative development practices that recognize the contributions of all team members.
+### Scope
+
+- Projects must prioritize human well-being and ethical use above all else.
+- AI agents or contributors are bound by these principles and must operate within the set boundaries.
+
+## Accountability Enforcement
+
+- Violations of the guardrails outlined in this file must be reviewed openly, with clear remediation steps.
+- Contributors (human or AI) failing to adhere to these directives will be held accountable by the project maintainers.
+
+This document serves as a living standard and should evolve as new challenges arise.
